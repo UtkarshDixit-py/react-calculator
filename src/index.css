@@ -26,7 +26,8 @@ code {
 }
 
 body{
-  background-color: var(--light);
+  
+  background:linear-gradient(to bottom, #818CF8 0%,#4338CA 100%); 
 }
 .App{
   display:flex;
